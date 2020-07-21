@@ -1,13 +1,12 @@
-package com.nqtruongnk.snack
+package com.nqtruongnk.snack.Controller
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.nqtruongnk.snack.R
 import kotlinx.android.synthetic.main.activity_create_user.*
-import java.util.*
 import kotlin.random.Random
-import java.util.Random as Random1
 
 class CreateUserActivity : AppCompatActivity() {
 
